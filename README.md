@@ -1,16 +1,35 @@
-### Hi there 👋
+<h1 align="center">Front-end Web and Mobile App Developer</h1>
+<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="HyperText Markup Language logo" title="HTML" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="Cascading Style Sheets logo" title="CSS" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript logo" title="JavaScript" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="TypeScript logo" title="TypeScript" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=vite" height="50" alt="Vite logo" title="Vite"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=angular" height="50" alt="Angular logo" title="Angular"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=astro" height="50" alt="Astro logo" title="Astro"  />
+</p>
 
-<!--
-**FbrzRM/FbrzRM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dart" height="50" alt="Dart logo" title="Dart" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="50" alt="flutter logo" title="Flutter"  />
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="Visual Studio Code logo" title="Visual Studio Code"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="50" alt="Bash logo" title="Bash"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=md" height="50" alt="Markdown logo" title="Markdown" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="50" alt="Figma logo" title="Figma" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="50" alt="Postman logo" title="Postman"  />
+</p>
