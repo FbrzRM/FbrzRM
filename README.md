@@ -2,12 +2,12 @@
 <!-- <img src="https://media.giphy.com/media/xTk9ZOk8WmSKQpFg1W/giphy.gif" width="50" /> -->
 
 
-`ejemplo@email.com`
+`framosmesias@gmail.com`
 <img width="10" />
 •
 <img width="10" />
-[`/lorem/lorem/`]() • 
-[`lorem.lorem`]()
+[`/in/fbrz/`](https://www.linkedin.com/in/fbrz/)
+<!--[[`lorem.lorem`]()](url)-->
 </div>
 
 # Fabrizio Ramos Mesías
@@ -49,7 +49,13 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=flutter" height="50" alt="flutter logo" title="Flutter"  />
 </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="Dart logo" title="Java" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=spring" height="50" alt="flutter logo" title="spring"  />
+</p>
 
+---
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="Visual Studio Code logo" title="Visual Studio Code"  />
   <img width="5" />
