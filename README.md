@@ -27,7 +27,7 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=ts" height="50" alt="TypeScript logo" title="TypeScript" />
   <img width="10" />
-  <img src="https://api.iconify.design/devicon:ngrx.svg" height="50" alt="Astro logo" title="ngrx"  />
+  <img src="https://api.iconify.design/skill-icons:reactivex-dark.svg?color=%23ffffff" height="50" alt="RxJS" title="ngrx"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=vite" height="50" alt="Vite logo" title="Vite"  />
   <img width="10" />
@@ -53,7 +53,13 @@
   <img src="https://skillicons.dev/icons?i=java" height="50" alt="Dart logo" title="Java" />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=spring" height="50" alt="flutter logo" title="spring"  />
+  <img width="5" />
+  <img src="https://api.iconify.design/skill-icons:cs.svg?color=%23ffffff" height="50" alt="C# logo" title="C#"  />
+  <img width="5" />
+  <img src="https://api.iconify.design/skill-icons:dotnet.svg?color=%23ffffff" height="50" alt=".net logo" title=".net"  />
 </p>
+
+
 
 ---
 <p align="center">
