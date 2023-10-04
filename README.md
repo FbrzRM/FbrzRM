@@ -67,6 +67,8 @@
   <img width="5" />
   <img src="https://api.iconify.design/logos:intellij-idea.svg?color=%23a349bc" height="50" alt="Visual Studio Code logo" title="Visual Studio Code"  />
   <img width="5" />  
+  <img src="https://api.iconify.design/skill-icons:visualstudio-dark.svg?color=%23ffffff" height="50" alt="Visual Studio Code logo" title="Visual Studio Code"  />
+  <img width="5" />  
   <img src="https://skillicons.dev/icons?i=bash" height="50" alt="Bash logo" title="Bash"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=md" height="50" alt="Markdown logo" title="Markdown" />
