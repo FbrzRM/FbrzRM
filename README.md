@@ -14,8 +14,6 @@
 
 >  *Software Engineer* - *23 years old* - #OpenToWork
 
-I am a passionate Frontend Developer with a strong affinity for technology and continuous improvement. My ability to learn quickly, effectively organize, and find creative solutions has helped me excel in my field. I always stay up-to-date and strive for excellence in Frontend development, with the goal of becoming a Google Developer Expert in Angular. I am enthusiastic about contributing to your team's success and sharing my knowledge with my colleagues.
-
 ---
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html" height="50" alt="HyperText Markup Language logo" title="HTML" />
