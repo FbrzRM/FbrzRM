@@ -7,6 +7,10 @@
 •
 <img width="10" />
 [`/in/fbrz/`](https://www.linkedin.com/in/fbrz/)
+<img width="10" />
+•
+<img width="10" />
+[`@FbrzRM`](https://twitter.com/FbrzRM)
 <!--[[`lorem.lorem`]()](url)-->
 </div>
 
