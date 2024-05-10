@@ -40,37 +40,25 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="Astro logo" title="MySql"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySql logo" title="MySql"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="50" alt="Astro logo" title="Sqlite"  />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="50" alt="Sqlite logo" title="Sqlite"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="Astro logo" title="Postgres"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="Postgres logo" title="Postgres"  />
 </p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=dart" height="50" alt="Dart logo" title="Dart" />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="50" alt="flutter logo" title="Flutter"  />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java" height="50" alt="Dart logo" title="Java" />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=spring" height="50" alt="flutter logo" title="spring"  />
-  <img width="5" />
-  <img src="https://api.iconify.design/skill-icons:cs.svg?color=%23ffffff" height="50" alt="C# logo" title="C#"  />
-  <img width="5" />
-  <img src="https://api.iconify.design/skill-icons:dotnet.svg?color=%23ffffff" height="50" alt=".net logo" title=".net"  />
+  <img src="https://skillicons.dev/icons?i=flutter" height="50" alt="Flutter logo" title="Flutter"  />
 </p>
 
-
-
----
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="Visual Studio Code logo" title="Visual Studio Code"  />
   <img width="5" />
-  <img src="https://api.iconify.design/logos:intellij-idea.svg?color=%23a349bc" height="50" alt="Visual Studio Code logo" title="Visual Studio Code"  />
+  <img src="https://api.iconify.design/logos:intellij-idea.svg?color=%23a349bc" height="50" alt="IntelliJ logo" title="IntelliJ"  />
   <img width="5" />  
-  <img src="https://api.iconify.design/skill-icons:visualstudio-dark.svg?color=%23ffffff" height="50" alt="Visual Studio Code logo" title="Visual Studio Code"  />
+  <img src="https://api.iconify.design/skill-icons:visualstudio-dark.svg?color=%23ffffff" height="50" alt="Visual Studio logo" title="Visual Studio"  />
   <img width="5" />  
   <img src="https://skillicons.dev/icons?i=bash" height="50" alt="Bash logo" title="Bash"  />
   <img width="5" />
