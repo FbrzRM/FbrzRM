@@ -16,7 +16,7 @@
 
 # Fabrizio Ramos Mesías
 
->  *Software Engineer* - *24 years old* - #OpenToWork
+>  *Software Engineer* - *26 years old* - #OpenToWork
 
 ---
 <p align="center">
@@ -28,7 +28,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="50" alt="TypeScript logo" title="TypeScript" />
   <img width="5" />
-  <img src="https://api.iconify.design/skill-icons:reactivex-dark.svg?color=%23ffffff" height="50" alt="RxJS" title="ngrx"  />
+  <img src="https://skillicons.dev/icons?i=reactivex" height="50" alt="RxJS" title="ngrx"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=vite" height="50" alt="Vite logo" title="Vite"  />
   <img width="5" />
@@ -54,7 +54,9 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=md" height="50" alt="Markdown logo" title="Markdown" />
   <img width="5" />
-  <img src="https://api.iconify.design/skill-icons:notion-dark.svg" height="50" alt="HyperText Markup Language logo" title="Notion" />
+  <img src="https://skillicons.dev/icons?i=obsidian" height="50" alt="Obsidian" title="Obsidian" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=latex" height="50" alt="Obsidian" title="Obsidian" />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=figma" height="50" alt="Figma logo" title="Figma" />
   <img width="5" />
